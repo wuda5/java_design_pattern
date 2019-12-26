@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.atguigu.adapter.interfaceadapter.AbsAdapter</OriginalElement>
+  <nodes>
+    <node x="18.0" y="164.0">com.atguigu.adapter.interfaceadapter.Client</node>
+    <node x="0.0" y="82.0">com.atguigu.adapter.interfaceadapter.AbsAdapter</node>
+    <node x="0.0" y="0.0">com.atguigu.adapter.interfaceadapter.Interface4</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.atguigu.adapter.interfaceadapter.Client" target="com.atguigu.adapter.interfaceadapter.AbsAdapter">
+      <point x="-25.0" y="-16.0" />
+      <point x="43.0" y="139.0" />
+      <point x="34.0" y="139.0" />
+      <point x="-34.0" y="16.0" />
+    </edge>
+    <edge source="com.atguigu.adapter.interfaceadapter.AbsAdapter" target="com.atguigu.adapter.interfaceadapter.Interface4">
+      <point x="0.0" y="-16.0" />
+      <point x="0.0" y="16.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="68.0" y="98.0" />
+  <SelectedNodes>
+    <node>com.atguigu.adapter.interfaceadapter.Client</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
